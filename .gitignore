@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+_uploaded_id.jpg
+_flattened_temp.jpg
+output.jpg
+output_log.txt
+*.onnx
